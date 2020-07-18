@@ -1,0 +1,10 @@
+[Dolphin]
+HeaderColumnWidths=260,72,126,83,72,134,76,347
+PreviewsShown=true
+Timestamp=2020,7,18,16,34,57
+Version=3
+ViewMode=1
+VisibleRoles=Details_text,Details_size,Details_date,Details_permissions,Details_owner,Details_type,Details_group,Details_path,CustomizedDetails
+
+[Settings]
+HiddenFilesShown=true
