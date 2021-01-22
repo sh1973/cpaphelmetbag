@@ -1,7 +1,7 @@
 [Dolphin]
-HeaderColumnWidths=181,72,126,83,72,134,76,373
+HeaderColumnWidths=286,72,126,83,72,183,76,443
 PreviewsShown=true
-Timestamp=2020,7,18,16,35,11
+Timestamp=2020,10,7,10,48,20
 Version=3
 ViewMode=1
 VisibleRoles=Details_text,Details_size,Details_date,Details_permissions,Details_owner,Details_type,Details_group,Details_path,CustomizedDetails

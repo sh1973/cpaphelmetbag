@@ -1,3 +1,5 @@
+Esta licencia está escrita en inglés, y debe ser entendida en inglés.  No use los archivos de este repositorio sin haber entendido esta licencia, incluso si para esto es necesario contar con los servicios de un traductor oficial.
+
 GNU AFFERO GENERAL PUBLIC LICENSE
 Version 3, 19 November 2007
 

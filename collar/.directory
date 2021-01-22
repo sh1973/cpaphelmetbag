@@ -1,0 +1,12 @@
+[Dolphin]
+HeaderColumnWidths=265,72,126,83,72,134,76,336
+PreviewsShown=true
+SortOrder=1
+SortRole=date
+Timestamp=2021,1,22,9,41,5
+Version=3
+ViewMode=1
+VisibleRoles=Details_text,Details_size,Details_date,Details_permissions,Details_owner,Details_type,Details_group,Details_path,CustomizedDetails
+
+[Settings]
+HiddenFilesShown=true
